@@ -34,4 +34,4 @@ Notebook ini mendemonstrasikan **39+ teknik ekstrasi dan manipulasi teks** berba
 
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORI.git](https://github.com/USERNAME_KAMU/NAMA_REPOSITORI.git)
+   git clone [https://github.com/ichameisyak-sudo/String-Regex-and-Visualization-Text-Data.git](https://github.com/ichameisyak-sudo/String-Regex-and-Visualization-Text-Data.git)
